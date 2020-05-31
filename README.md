@@ -1,6 +1,8 @@
 # ELECTRA
 Contact Tracing Algorithm using Location Based Encryption (Encrypted Location Embedding Contact TRacing Algorithm)
 
+![](test_contact_image.png)
+
 # Location Based Encryption Contact Tracing Algorithm
 
 The contact tracing algorithm uses gps location data to encrypt a unique id. This encrypted data can then be published publicaly where other users try to decrypt the data with their own gps location data. The decryption attempts are then given to a centralized service which looks for matches between the data and the unique ids given to users that are confirmed as infected.
