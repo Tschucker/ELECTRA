@@ -1,5 +1,5 @@
 # ELECTRA
-Contact Tracing Algorithm using Location Based Encryption (Encrypted Location Embedding Contact TRacing Algorithm)
+Contact Tracing Algorithm using Location Based Encryption (Encrypted Location Enabled Contact TRacing Algorithm)
 
 ![](test_contact_image.png)
 
